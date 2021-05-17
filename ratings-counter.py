@@ -11,3 +11,6 @@ result = ratings.countByValue()
 sortedResults = collections.OrderedDict(sorted(result.items()))
 for key, value in sortedResults.items():
     print("%s %i" % (key, value))
+
+
+#temp
